@@ -1,0 +1,70 @@
+xuat danh sach sinh vien: 
+so thu tu: 1 
+ten sinh vien: nguyen truong phat 
+ma so sinh vien: 18123 
+ngay sinh: 10 / 2 / 2000 
+so thu tu: 2 
+ten sinh vien: le van  thai  
+ma so sinh vien: 18142 
+ngay sinh: 20 / 3 / 2000 
+so thu tu: 3 
+ten sinh vien: mai xuan  tung  
+ma so sinh vien: 181456 
+ngay sinh: 10 / 5 / 2000 
+so thu tu: 4 
+ten sinh vien: Nguyen Tien Nhat Nhat 
+ma so sinh vien: 1613133 
+ngay sinh: 13 / 12 / 1999 
+tien hanh sap xep lai danh sach sinh vien theo ten.
+xuat danh sach sinh vien: 
+so thu tu: 1 
+ten sinh vien: Nguyen Tien Nhat Nhat 
+ma so sinh vien: 1613133 
+ngay sinh: 13 / 12 / 1999 
+so thu tu: 2 
+ten sinh vien: nguyen truong phat 
+ma so sinh vien: 18123 
+ngay sinh: 10 / 2 / 2000 
+so thu tu: 3 
+ten sinh vien: le van  thai  
+ma so sinh vien: 18142 
+ngay sinh: 20 / 3 / 2000 
+so thu tu: 4 
+ten sinh vien: mai xuan  tung  
+ma so sinh vien: 181456 
+ngay sinh: 10 / 5 / 2000 
+xuat danh sach sinh vien: 
+so thu tu: 1 
+ten sinh vien: Nguyen Tien Nhat Nhat 
+ma so sinh vien: 1613133 
+ngay sinh: 13 / 12 / 1999 
+so thu tu: 2 
+ten sinh vien: nguyen truong phat 
+ma so sinh vien: 18123 
+ngay sinh: 10 / 2 / 2000 
+so thu tu: 3 
+ten sinh vien: le van  thai  
+ma so sinh vien: 18142 
+ngay sinh: 20 / 3 / 2000 
+so thu tu: 4 
+ten sinh vien: mai xuan  tung  
+ma so sinh vien: 181456 
+ngay sinh: 10 / 5 / 2000 
+tien hanh sap xep lai danh sach sinh vien theo ten.
+xuat danh sach sinh vien: 
+so thu tu: 1 
+ten sinh vien: Nguyen Tien Nhat Nhat 
+ma so sinh vien: 1613133 
+ngay sinh: 13 / 12 / 1999 
+so thu tu: 2 
+ten sinh vien: nguyen truong phat 
+ma so sinh vien: 18123 
+ngay sinh: 10 / 2 / 2000 
+so thu tu: 3 
+ten sinh vien: le van  thai  
+ma so sinh vien: 18142 
+ngay sinh: 20 / 3 / 2000 
+so thu tu: 4 
+ten sinh vien: mai xuan  tung  
+ma so sinh vien: 181456 
+ngay sinh: 10 / 5 / 2000 
